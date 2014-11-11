@@ -1,0 +1,8 @@
+---
+layout: post
+title: "VIS 2014 paper"
+date: 2014-11-10 17:55:00
+---
+
+The [VIS 2014 paper](/assets/paper.pdf) introduces the idea of using tools from algebra
+to understand the design of visualizations.

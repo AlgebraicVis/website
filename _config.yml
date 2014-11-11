@@ -1,0 +1,12 @@
+# Site settings
+title: Algebraic Visualization Design
+email: cscheid+algebraicvis@cscheid.net
+description: > # this means to ignore newlines until "baseurl:"
+  Using algebra to think about visualization design and evaluation.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://algebraicvis.net" # the base hostname & protocol for your site
+twitter_username: algebraicvis
+github_username:  AlgebraicVis
+
+# Build settings
+markdown: kramdown
