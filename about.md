@@ -8,7 +8,7 @@ Algebraic Visualization Design is a theory [Gordon Kindlmann](http://people.cs.u
 Scheidegger](http://cscheid.net) have created to help understand how and why some
 visualizations work better than others.
 
-### Why cc-nd?
+### Why [by-nd](http://creativecommons.org/choose/results-one?license_code=by-nd)?
 
 We would love for all of you to write about algebraic visualization
 design, but we would prefer that you did it in your own words. That
