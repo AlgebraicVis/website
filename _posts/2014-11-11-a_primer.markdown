@@ -22,7 +22,7 @@ version of the first act of the talk.
 
 # Let's get started
 
-Carlos and I have written
+This is
 a theory paper about
 a mathematical approach
 to understanding, critiquing, and improving
