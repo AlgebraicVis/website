@@ -5,7 +5,7 @@ date: 2014-11-11 12:46:00
 ---
 
 Gordon will be presenting the
-[paper](/posts/2014/11/10/vis-paper.html) tomorrow at the Design
+[paper](/assets/paper.pdf) tomorrow at the Design
 Process and Persuasion session, at 2:20PM.
 
 We'll be doing a series of posts about this work that will follow the
